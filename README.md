@@ -12,7 +12,7 @@ En este repositorio se encontraran las practicas y proyectos indicados por el tu
 
 ## Requisitos
 Antes de continuar debera poseer algunas de las siguientes herramientas.
-* JAVA instalado y en variables del sistema.
+* JAVA 8 instalado y en variables del sistema.
 * IDE o disponibilidad de usar .bat o cmd.
 
 ## Ejecucion
