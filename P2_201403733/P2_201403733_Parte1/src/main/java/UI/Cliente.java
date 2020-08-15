@@ -269,7 +269,7 @@ public class Cliente extends javax.swing.JFrame {
             service.fireService(service.CREAR);
             actualizarLista();
         } catch (Exception e) {
-            System.out.println("NO SE PUDO CREAR EL CONTACTO");
+            System.out.println("NO SE PUDO CREAR EL CONTACTO" + e.getMessage());
         }
     }//GEN-LAST:event_btCrearNuevoActionPerformed
 
