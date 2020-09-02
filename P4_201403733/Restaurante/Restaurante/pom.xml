@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>atel.com.gt</groupId>
-    <artifactId>Cliente</artifactId>
+    <artifactId>Restaurante</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
-    <name>Cliente</name>
+    <name>Restaurante</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
