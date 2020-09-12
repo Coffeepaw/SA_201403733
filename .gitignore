@@ -30,3 +30,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+/P4_201403733/Cliente/target/
+/P4_201403733/Restaurante/Restaurante/target/
+/P4_201403733/Repartidor/target/
